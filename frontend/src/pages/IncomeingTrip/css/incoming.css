@@ -1,0 +1,19 @@
+.btn-addTrip {
+  float: right;
+  color: #ffffff;
+  background-color: #ffaf00;
+  margin-right: 8%;
+  margin-top: 4%;
+}
+
+.btn-addTrip p {
+  font-size: 14px;
+  margin: 0;
+  padding-right: 10px;
+  padding-left: 10px;
+  font-weight: 600;
+}
+
+.btn-addTrip:hover {
+  color: #ffffff;
+}

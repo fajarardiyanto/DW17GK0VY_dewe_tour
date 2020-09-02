@@ -1,0 +1,32 @@
+.form__group {
+  text-align: left;
+  font-weight: 700;
+}
+
+.form__control {
+  background-color: rgba(196, 196, 196, 0.5);
+}
+
+.btn__add__trip {
+  position: absolute;
+  width: 340px;
+  margin-top: 5%;
+  margin-left: -10%;
+  color: #fff;
+  border-style: none;
+  background: #ffaf00;
+}
+
+.btn__add__trip:hover {
+  background-color: #ffaf00 !important;
+  color: #fff;
+  outline: #fff !important;
+}
+
+.title__add__trip {
+  color: #000;
+  font-size: 30px;
+  text-align: left;
+  margin-left: 102px;
+  font-weight: 700;
+}

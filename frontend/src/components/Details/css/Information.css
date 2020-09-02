@@ -1,0 +1,230 @@
+.textMuted-1 {
+  position: absolute;
+  width: 140.97px;
+  height: 24px;
+  left: 165px;
+  top: 890px;
+  font-family: "Product Sans", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 25px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.textMuted-2 {
+  font-size: 14px;
+  color: #a8a8a8;
+  text-align: justify;
+}
+
+.textMuted-3 {
+  position: absolute;
+  width: 140.97px;
+  height: 24px;
+  left: 165px;
+  top: 1080px;
+  font-family: "Product Sans", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 25px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.textMuted-4 {
+  position: absolute;
+  width: 383px;
+  height: 33px;
+  left: 165px;
+  top: 1235px;
+  font-family: "Product Sans", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 33px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #ffaf00;
+}
+
+.textMuted-4 span {
+  color: #000000;
+  margin-left: 10px;
+}
+
+.textMuted-5 {
+  position: absolute;
+  width: 140.97px;
+  height: 24px;
+  left: 165px;
+  top: 1320px;
+  font-family: "Product Sans", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 22px;
+  line-height: 25px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.textMuted-6 {
+  position: absolute;
+  width: 190.97px;
+  height: 24px;
+  left: 1040px;
+  top: 1320px;
+  font-family: "Product Sans", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 22px;
+  line-height: 25px;
+  display: flex;
+  align-items: center;
+  color: #ffaf00;
+}
+
+.btn5 {
+  position: absolute;
+  width: 150px;
+  height: 50px;
+  left: 1080px;
+  top: 1430px;
+  border-style: none;
+  background: #ffaf00;
+  border-radius: 10px;
+  border: none !important;
+  outline: none !important;
+  outline-offset: none !important;
+}
+
+.btn5 p {
+  font-size: 18px;
+  text-shadow: none;
+  font-weight: bold;
+  margin-bottom: 4px;
+  margin-left: 15px;
+  margin-right: 15px;
+  color: #ffffff;
+}
+
+.btn5:hover {
+  border-color: #ffaf00 !important;
+}
+
+.btn5:active .btn5:focus {
+  outline: none !important;
+  outline-offset: none !important;
+  border: none !important;
+  border-color: none !important;
+}
+
+.btn-min {
+  border: none !important;
+  background-color: #e5e5e5 !important;
+  outline: none !important;
+  outline-offset: none !important;
+  border-color: none !important;
+}
+
+.btn-min:active .btn-min:focus {
+  outline: none !important;
+  outline-offset: none !important;
+  border: none !important;
+  border-color: none !important;
+}
+
+.row-1 {
+  margin-top: 215px;
+  margin-left: 940px;
+}
+
+.hr-1 {
+  width: 95%;
+  margin-top: 20px;
+  font-size: 10em;
+  margin-left: 50px;
+}
+
+.hr-2 {
+  width: 95%;
+  margin-top: 90px;
+  font-size: 10em;
+  margin-left: 50px;
+}
+
+.lorem {
+  position: absolute;
+  width: 1003px;
+  height: 85px;
+  left: 165px;
+  top: 1115px;
+  font-family: "Product Sans", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 19px;
+  text-align: justify;
+
+  color: #a8a8a8;
+}
+
+.col--1 {
+  margin-left: 25px;
+  margin-top: 80px;
+  font-size: 18px;
+  font-weight: bold;
+  border: none;
+}
+
+.tr-1 {
+  text-align: justify;
+}
+
+.title-trip {
+  position: absolute;
+  width: 960px;
+  height: 66px;
+  left: 165px;
+  top: 140px;
+  font-family: "Product Sans", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 66px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.textMuted-country {
+  position: absolute;
+  width: 160px;
+  height: 33px;
+  left: 165px;
+  top: 206px;
+  font-family: "Product Sans", sans-serif;
+  font-style: normal;
+  font-weight: 580;
+  font-size: 24px;
+  line-height: 33px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #a8a8a8;
+}
+
+.table-borderless > tbody > tr > td,
+.table-borderless > tbody > tr > th,
+.table-borderless > tfoot > tr > td,
+.table-borderless > tfoot > tr > th,
+.table-borderless > thead > tr > td,
+.table-borderless > thead > tr > th {
+  border: none;
+}

@@ -1,0 +1,36 @@
+.App {
+  margin-top: -80px;
+}
+
+.center {
+  margin: auto;
+  width: 80px;
+  height: 80px;
+  margin-top: 55px;
+  margin-bottom: 5px;
+}
+
+.title {
+  font-family: "Avenir", sans-serif;
+  font-style: normal;
+  font-weight: 570;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: center;
+  color: #000000;
+  margin-bottom: 120px;
+}
+
+.text {
+  position: absolute;
+  width: 208px;
+  height: 75px;
+  font-family: "Avenir", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+  color: #878787;
+  margin-top: -105px;
+}

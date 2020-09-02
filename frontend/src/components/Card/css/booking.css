@@ -1,0 +1,372 @@
+.jumbotrons {
+  background-image: url(../../../Images/cvheader.png);
+  opacity: 1;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 155px;
+  font-weight: 200;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
+  text-align: center;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.jumbotron .logo {
+  position: absolute;
+  left: 95px;
+  top: 3px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.judul {
+  position: absolute;
+  width: 833px;
+  height: 66px;
+  left: 165px;
+  top: 140px;
+  font-family: "Product Sans", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 42px;
+  line-height: 66px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.textMuted {
+  position: absolute;
+  width: 99px;
+  height: 33px;
+  left: 165px;
+  top: 206px;
+  font-family: "Product Sans", sans-serif;
+  font-style: normal;
+  font-weight: 580;
+  font-size: 24px;
+  line-height: 33px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #a8a8a8;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Rubik&display=swap");
+
+.card-span {
+  width: 67rem;
+  height: 27rem;
+  margin-top: 5.5%;
+  margin-left: 11%;
+  background-color: #fff;
+  border: 2px solid #b7b7b7;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.icon-card-booking {
+  width: 189px;
+  height: 68px;
+  margin: 10px 0 0 40px;
+}
+
+.h1-card-1 {
+  position: absolute;
+  text-align: left;
+  width: 355px;
+  height: 33px;
+  margin-left: 28px;
+  top: 100px;
+  font-family: "Rubik", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  color: #000000;
+}
+
+.p-card-1 {
+  position: absolute;
+  width: 155px;
+  height: 19px;
+  left: 44px;
+  top: 140px;
+  font-family: "Rubik", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  color: #959595;
+}
+
+.span-wait-1 {
+  position: absolute;
+  width: 112px;
+  height: 24px;
+  left: 44px;
+  top: 200px;
+  background: #ffdcdc;
+  border-radius: 2px;
+}
+
+.span-wait-1 p {
+  z-index: 1;
+  color: #ec7a7a;
+  font-size: 12px;
+  padding-top: 2px;
+}
+
+.span-wait-2 {
+  position: absolute;
+  width: 112px;
+  height: 24px;
+  left: 44px;
+  top: 200px;
+  background: #ffd494;
+  border-radius: 2px;
+}
+
+.span-wait-2 {
+  z-index: 1;
+  color: #f19100;
+  font-size: 12px;
+  padding-top: 2px;
+}
+
+.span-wait-3 {
+  position: absolute;
+  width: 112px;
+  height: 24px;
+  left: 44px;
+  top: 200px;
+  background: #d4ffce;
+  border-radius: 2px;
+}
+
+.span-wait-3 {
+  z-index: 1;
+  color: #3cf71e;
+  font-size: 12px;
+  padding-top: 2px;
+}
+
+.text-ticket {
+  font-family: "Products sans", sans-serif;
+  font-size: 18px;
+  text-align: right;
+  margin-right: 25px;
+  margin-top: 6px;
+}
+
+.booking-text {
+  font-family: "Product sans", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 32px;
+  color: #000000;
+}
+
+.text-day {
+  font-family: "Rubik", sans-serif;
+  color: #878787;
+}
+
+.div-text-booking {
+  position: relative;
+  text-align: right;
+  top: -16%;
+  right: 5%;
+}
+
+.img-payment {
+  width: 137.23px;
+  height: 137.88px;
+  margin-top: 20px;
+}
+
+.text-upload {
+  color: #818181;
+  font-size: 13px;
+  margin-top: 10px;
+}
+
+.div-booking-info-1 {
+  position: flex;
+  align-items: center;
+  margin-top: -24.3%;
+  margin-left: -8%;
+}
+
+.div-booking-info-2 {
+  position: flex;
+  align-items: center;
+  margin-top: -6.2%;
+  margin-left: 26%;
+}
+
+.div-booking-info-3 {
+  position: flex;
+  align-items: center;
+  margin-top: 2%;
+  margin-left: -9%;
+}
+
+.div-booking-info-4 {
+  position: flex;
+  align-items: center;
+  margin-top: -6.2%;
+  margin-left: 26%;
+}
+
+.text-booking-style {
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.text-booking-info-1 {
+  margin-left: -2.5%;
+}
+
+.text-booking-info-2 {
+  margin-left: -1.6%;
+}
+
+.text-booking-info-3 {
+  margin-left: 3.3%;
+}
+
+.text-booking-info-4 {
+  margin-left: 2.6%;
+}
+
+.p-booking-info {
+  color: #959595;
+  font-size: 14px;
+  font-family: "Rubik", sans-serif;
+}
+
+.textMuted-7 {
+  font-size: 18px;
+  text-align: left;
+  color: #000000;
+}
+
+.col--2 {
+  margin-left: 35px;
+  margin-bottom: -2%;
+  font-size: 18px;
+  font-weight: bold;
+  border: none;
+}
+
+.div-table-booking {
+  width: 50%;
+  margin-top: -20%;
+}
+
+.tr-2 {
+  text-align: left;
+  color: #b1b1b1;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: normal;
+}
+
+.hr-book {
+  position: absolute;
+  width: 66.7rem;
+  height: 2px;
+  margin-top: 330px;
+  background-color: #e0e0e0;
+}
+
+.hr-book-1 {
+  position: absolute;
+  width: 66.7rem;
+  height: 2px;
+  margin-top: 370px;
+  background-color: #e0e0e0;
+}
+
+.text-qty {
+  position: relative;
+  text-align: right;
+  font-style: normal;
+  right: -69.3%;
+  bottom: 25px;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 25px;
+  color: #000000;
+  font-family: "Product sans", sans-serif;
+}
+
+.text-price {
+  position: relative;
+  text-align: right;
+  font-style: normal;
+  right: -90%;
+  bottom: 10px;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 25px;
+  color: #000000;
+  font-family: "Product sans", sans-serif;
+}
+
+.text-price span {
+  color: #ff0000;
+}
+
+.btn-pay {
+  width: 100%;
+  background-color: #ffaf00;
+  color: #ffffff;
+}
+
+.btn-pay:hover {
+  color: #ffffff;
+}
+
+.card-btn {
+  width: 13%;
+  left: 74%;
+  top: 20px;
+  border: none;
+  background-color: #ff0000;
+}
+
+.set-modals {
+  width: 100%;
+  margin-left: 10px;
+  max-width: 100%;
+  margin-top: 20%;
+}
+
+.body-modals {
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+.visible {
+  visibility: visible;
+}
+
+.table-borderlesss > tbody > tr > td,
+.table-borderlesss > tbody > tr > th,
+.table-borderlesss > tfoot > tr > td,
+.table-borderlesss > tfoot > tr > th,
+.table-borderlesss > thead > tr > td,
+.table-borderlesss > thead > tr > th {
+  border: none;
+}

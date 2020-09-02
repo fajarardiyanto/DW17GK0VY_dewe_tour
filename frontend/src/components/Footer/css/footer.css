@@ -1,0 +1,19 @@
+.footer {
+  display: block;
+  position: absolute;
+  /* bottom: -222%; */
+  width: 94%;
+  height: 50px;
+  margin-top: 15%;
+  background: #ffaf00;
+}
+
+.footer p {
+  padding-top: 12px;
+  text-align: center;
+  font-family: "Product Sans", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: normal;
+  color: #ffffff;
+}

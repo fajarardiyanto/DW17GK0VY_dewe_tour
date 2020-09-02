@@ -1,0 +1,17 @@
+.table-list {
+  text-align: left;
+}
+
+.btn-iconsearch {
+  border: none;
+  background: none;
+  outline: none;
+}
+
+.btn-iconsearch:focus {
+  outline: none;
+}
+
+.status-style {
+  font-weight: 600;
+}

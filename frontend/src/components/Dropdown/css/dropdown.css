@@ -1,0 +1,62 @@
+.pps {
+  width: 60px;
+  height: 60px;
+  margin-left: 87%;
+  border-radius: 70%;
+  border: 2px solid #ffaf00;
+  margin-top: 23px;
+  background-image: url(../../../Images/pp.png);
+  background-size: 100%;
+}
+
+.menu-dropdown {
+  border-radius: 10px;
+  margin-top: 2%;
+  border: none;
+}
+
+.text-profile {
+  font-size: 16px;
+  width: 100%;
+  padding-right: 50px;
+  padding-left: 20px;
+  color: #000000;
+}
+
+.dropdown-icon {
+  margin-right: 15px;
+}
+
+.segitiga {
+  z-index: 0;
+  width: 0;
+  height: 0;
+  float: right;
+  margin-top: -25px;
+  margin-right: 17px;
+  border-left: 11px solid transparent;
+  border-right: 11px solid transparent;
+  border-bottom: 21px solid #ffffff;
+}
+
+.div-logout-dropdown {
+  margin-top: -8px;
+}
+
+.hr-dropdown {
+  border-width: medium;
+  margin-top: 0px;
+}
+
+.btn-dropdown {
+  background-color: none !important;
+}
+
+.btn-dropdown:hover {
+  background-color: none !important;
+}
+
+.div-item {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
